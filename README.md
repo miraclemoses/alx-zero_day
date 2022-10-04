@@ -1,2 +1,3 @@
-My first readme
-This is a new alx project
+# My first readme
+
+__This is a new alx project__
